@@ -26,12 +26,7 @@ Docker & Docker Compose · Nginx (reverse proxy, TLS termination) · Plesk · Gi
 ### ⚙️ Backend & Data
 Django / DRF · ASP.NET Core · PHP · MySQL · PostgreSQL · Redis · Background jobs & queues
 
----
 
-### 🔭 Currently exploring
-- **WireGuard** — VPN-only access for admin services
-- **Prometheus & Grafana** — server and service monitoring
-- **Ansible** — automated server provisioning and hardening
 
 ### 📫 Contact
 [Email](mailto:subhibekri@gmail.com) · [LinkedIn](https://linkedin.com/in/subhi-bekri) · [GitLab](https://gitlab.com/SUBHI.BEKRI)
