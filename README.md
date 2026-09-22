@@ -1,13 +1,37 @@
-Backend Engineer working with Python (Django, Django REST Framework) and ASP.NET Core, focused on building reliable backend systems and well-designed APIs.
+## Hi, I'm Subhi 👋
 
-I work on real-world backend applications, including multi-tenant architectures, background processing, and production deployments.
-I care about clear system design, maintainable codebases, and making backend services stable, predictable, and easy to extend over time.
+**Backend Engineer · DevOps & System Administration**
+Linux servers · Networking & security · Production deployments
 
-Experience with containerized environments and production setups using Docker and Nginx, with a strong preference for practical solutions over unnecessary complexity.
+I build backend systems and run the infrastructure behind them — from Linux
+server administration and network security to containerized deployments in production.
 
-Tech: Django · DRF · ASP.NET Core · PostgreSQL · Redis · Docker · Nginx · Git
+- 🖥️ Primary engineer running the full infrastructure of a live e-commerce platform with **780,000+ processed orders**
+- 🏛️ Deployed an official government appointment system behind an Nginx reverse proxy, with security-first configuration
+- 🛡️ Trained in networking, server configuration, and system hardening at **Barikat Siber Güvenlik**
 
-Contact: 
- · subhibekri@gmail.com
- · https://linkedin.com/in/subhi-bekri
- · https://gitlab.com/SUBHI.BEKRI
+I prefer simple, well-secured setups over unnecessary complexity.
+
+---
+
+### 🌐 Networking & Security
+TCP/IP · DNS · Firewall configuration (ufw) · SSH hardening & key-based access · TLS/SSL · Least-privilege access
+
+### 🐧 Linux & Server Administration
+Ubuntu / Debian · systemd services · cron · Log analysis & troubleshooting · Backups & restore · Bash
+
+### 🐳 Infrastructure & Deployment
+Docker & Docker Compose · Nginx (reverse proxy, TLS termination) · Plesk · Git-based deployments
+
+### ⚙️ Backend & Data
+Django / DRF · ASP.NET Core · PHP · MySQL · PostgreSQL · Redis · Background jobs & queues
+
+---
+
+### 🔭 Currently exploring
+- **WireGuard** — VPN-only access for admin services
+- **Prometheus & Grafana** — server and service monitoring
+- **Ansible** — automated server provisioning and hardening
+
+### 📫 Contact
+[Email](mailto:subhibekri@gmail.com) · [LinkedIn](https://linkedin.com/in/subhi-bekri) · [GitLab](https://gitlab.com/SUBHI.BEKRI)
