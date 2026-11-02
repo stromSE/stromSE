@@ -27,15 +27,16 @@ production. I prefer simple, well-secured setups over unnecessary complexity.
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Featured Project
 
-**[Kanban Manager API](https://github.com/SUBHIBAKRI/kanban-manager-api)** — Production-ready backend
-> Teams, roles &amp; permission-aware projects, Kanban boards, background jobs, and 40+ documented API endpoints.
-> `Django` `DRF` `PostgreSQL` `JWT` `Celery` `Redis` `Docker` `Nginx`
-
-**[DataOracle AI](https://lnkd.in/dhTXkQe6)** — Bilingual (AR/EN) data analysis tool
-> Analyzes Excel/CSV/TXT files, detects data issues, generates insights, and exports professional reports.
-> `Python` `AI` `Data Analytics`
+**Totih ERP Platform** — Full-scale ERP replacing a legacy OpenCart system
+> A comprehensive, multi-app ERP powering a live COD e-commerce operation across
+> Turkey and Arab/European markets — orders, warehouse &amp; inventory, purchasing,
+> dropshipping, wholesale, shipping integrations, and an advanced reporting engine.
+> Built with a disciplined, modular architecture (RBAC, multi-language RTL,
+> real production data at scale).
+>
+> `React 19` `TypeScript` `Tailwind` `Django` `PHP/OpenCart` `MySQL` `Redis` `Docker` `Nginx`
 
 ---
 
@@ -50,14 +51,6 @@ Docker &amp; Docker Compose · Nginx (reverse proxy, TLS termination) · Plesk �
 
 ### ⚙️ Backend &amp; Data
 Django / DRF · ASP.NET Core · PHP · MySQL · PostgreSQL · Redis · Background jobs &amp; queues
-
----
-
-### 📊 GitHub Stats
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SUBHIBAKRI&show_icons=true&hide_border=true">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUBHIBAKRI&layout=compact&hide_border=true">
-</p>
 
 ---
 
