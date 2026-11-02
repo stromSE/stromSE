@@ -10,8 +10,16 @@
   <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white">
   <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white">
   <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TCP%2FIP-0A66C2?style=flat&logo=cloudflare&logoColor=white">
+  <img src="https://img.shields.io/badge/SSL%2FTLS-721412?style=flat&logo=letsencrypt&logoColor=white">
+  <img src="https://img.shields.io/badge/SSH-000000?style=flat&logo=openssh&logoColor=white">
+  <img src="https://img.shields.io/badge/Firewall%20(ufw)-EE0000?style=flat&logo=linux&logoColor=white">
 </p>
 
 ---
