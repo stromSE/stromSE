@@ -34,27 +34,29 @@ I prefer simple, well-secured setups over unnecessary complexity.
 - 🎓 Computer Engineering graduate — Sakarya University (GPA 3.80/4.00, Certificate of Honor)
 
 ---
+### Featured Project
 
-### 🚀 Featured Project
+**Totih ERP Platform** — a full-scale system replacing a legacy OpenCart setup for
+a live COD e-commerce business across Turkey and Arab/European markets.
 
-**Totih ERP Platform** — Full-scale ERP replacing a legacy OpenCart system
-> A comprehensive, multi-app ERP powering a live COD e-commerce operation across
-> Turkey and Arab/European markets. Built from the ground up with a small team —
-> including a **custom PHP framework** (container, attribute-based routing, query
-> builder, migrations, JWT, validation) written from scratch.
->
-> **Scale:** ~220k lines of code · **381 REST API endpoints** · 72 DB tables ·
-> 82 endpoint-level permissions · 3 languages (RTL) with per-country inventory
->
-> **Modules:** orders, warehouse &amp; inventory, purchasing &amp; suppliers,
-> catalog, dropshipping, wholesale, marketing (campaigns/coupons), customer
-> service, HR &amp; permissions, and an advanced reporting engine.
->
-> **Backend:** `PHP 8.5` · custom framework · `MySQL / MariaDB` (PDO) · `JWT` · `PHPUnit` (~1,070 tests)
-> **Frontend:** `React 19` · `TypeScript` · `Vite` · `Tailwind` · `TanStack Query` · `pnpm monorepo`
-> **Ops:** `GitHub Actions` (SSH/scp deploys) · `Plesk` · `Apache` · WebP/CDN image pipeline
+It's built as three connected parts on top of one backend:
+
+- **The ERP core** — the heart of the system: orders, warehouse &amp; inventory,
+  purchasing &amp; suppliers, catalog, marketing, HR, and fine-grained permissions.
+  Engineered to run against a heavy production dataset (hundreds of thousands of
+  orders and millions of order-history records).
+- **A dropshipping app** — a dedicated front-end for dropshippers to place and
+  track orders, manage their wallet, and run their operations.
+- **An online storefront** — the customer-facing shop, wired to payment gateways.
+
+Built from the ground up around a custom PHP framework (container, attribute-based
+routing, query builder, migrations, JWT, validation), with React/TypeScript
+front-ends. Multi-language (RTL) with per-country inventory.
+
+`PHP` · `MySQL / MariaDB` · `React` · `TypeScript` · `Vite` · `Tailwind` · `GitHub Actions` · `Plesk`
 
 ---
+
 
 ### 🌐 Networking &amp; Security
 TCP/IP · DNS · Firewall configuration (ufw) · SSH hardening &amp; key-based access · TLS/SSL · Least-privilege access
@@ -66,9 +68,9 @@ Ubuntu / Debian · systemd services · cron · Log analysis &amp; troubleshootin
 Docker &amp; Docker Compose · Nginx (reverse proxy, TLS termination) · Apache / Plesk · GitHub Actions · Git-based deployments
 
 ### ⚙️ Backend &amp; Data
-Django / DRF · ASP.NET Core · PHP · MySQL · PostgreSQL · REST APIs · JWT &amp; RBAC
+PHP · Django / DRF · ASP.NET Core · MySQL · PostgreSQL · REST APIs · JWT &amp; RBAC
 
 ---
 
 ### 📫 Contact
-[Email](mailto:subhibekri@gmail.com) · [LinkedIn](https://linkedin.com/in/subhi-bekri) · [GitLab](https://gitlab.com/SUBHIBAKRI)
+[Email](mailto:subhibekri@gmail.com) · [LinkedIn](https://linkedin.com/in/subhi-bekri) 
