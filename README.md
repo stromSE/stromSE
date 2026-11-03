@@ -57,7 +57,6 @@ front-ends. Multi-language (RTL) with per-country inventory.
 
 ---
 
-
 ### 🌐 Networking &amp; Security
 TCP/IP · DNS · Firewall configuration (ufw) · SSH hardening &amp; key-based access · TLS/SSL · Least-privilege access
 
@@ -73,4 +72,4 @@ PHP · Django / DRF · ASP.NET Core · MySQL · PostgreSQL · REST APIs · JWT &
 ---
 
 ### 📫 Contact
-[Email](mailto:subhibekri@gmail.com) · [LinkedIn](https://linkedin.com/in/subhi-bekri) 
+[Email](mailto:subhibekri@gmail.com) · [LinkedIn](https://linkedin.com/in/subhi-bekri) · [GitLab](https://gitlab.com/SUBHIBAKRI)
