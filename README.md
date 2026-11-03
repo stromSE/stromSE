@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Subhi 👋</h1>
+<h1 align="center">Hi, I'm Subhi </h1>
 <p align="center">
   <b>Backend Engineer · DevOps &amp; System Administration</b><br>
   Linux servers · Networking &amp; security · Production deployments
@@ -8,11 +8,11 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white">
   <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white">
   <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
 </p>
 
 <p align="center">
@@ -25,8 +25,8 @@
 ---
 
 I build backend systems and run the infrastructure behind them — from Linux
-server administration and network security to containerized deployments in
-production. I prefer simple, well-secured setups over unnecessary complexity.
+server administration and network security to production deployments.
+I prefer simple, well-secured setups over unnecessary complexity.
 
 - 🖥️ Primary engineer running the full infrastructure of a live COD e-commerce platform — **780,000+ processed orders**
 - 🏛️ Deployed an official **government appointment system** behind an Nginx reverse proxy, with a security-first configuration
@@ -39,12 +39,20 @@ production. I prefer simple, well-secured setups over unnecessary complexity.
 
 **Totih ERP Platform** — Full-scale ERP replacing a legacy OpenCart system
 > A comprehensive, multi-app ERP powering a live COD e-commerce operation across
-> Turkey and Arab/European markets — orders, warehouse &amp; inventory, purchasing,
-> dropshipping, wholesale, shipping integrations, and an advanced reporting engine.
-> Built with a disciplined, modular architecture (RBAC, multi-language RTL,
-> real production data at scale).
+> Turkey and Arab/European markets. Built from the ground up with a small team —
+> including a **custom PHP framework** (container, attribute-based routing, query
+> builder, migrations, JWT, validation) written from scratch.
 >
-> `React 19` `TypeScript` `Tailwind` `Django` `PHP/OpenCart` `MySQL` `Redis` `Docker` `Nginx`
+> **Scale:** ~220k lines of code · **381 REST API endpoints** · 72 DB tables ·
+> 82 endpoint-level permissions · 3 languages (RTL) with per-country inventory
+>
+> **Modules:** orders, warehouse &amp; inventory, purchasing &amp; suppliers,
+> catalog, dropshipping, wholesale, marketing (campaigns/coupons), customer
+> service, HR &amp; permissions, and an advanced reporting engine.
+>
+> **Backend:** `PHP 8.5` · custom framework · `MySQL / MariaDB` (PDO) · `JWT` · `PHPUnit` (~1,070 tests)
+> **Frontend:** `React 19` · `TypeScript` · `Vite` · `Tailwind` · `TanStack Query` · `pnpm monorepo`
+> **Ops:** `GitHub Actions` (SSH/scp deploys) · `Plesk` · `Apache` · WebP/CDN image pipeline
 
 ---
 
@@ -55,10 +63,10 @@ TCP/IP · DNS · Firewall configuration (ufw) · SSH hardening &amp; key-based a
 Ubuntu / Debian · systemd services · cron · Log analysis &amp; troubleshooting · Backups &amp; restore · Bash
 
 ### 🐳 Infrastructure &amp; Deployment
-Docker &amp; Docker Compose · Nginx (reverse proxy, TLS termination) · Plesk · Git-based deployments
+Docker &amp; Docker Compose · Nginx (reverse proxy, TLS termination) · Apache / Plesk · GitHub Actions · Git-based deployments
 
 ### ⚙️ Backend &amp; Data
-Django / DRF · ASP.NET Core · PHP · MySQL · PostgreSQL · Redis · Background jobs &amp; queues
+Django / DRF · ASP.NET Core · PHP · MySQL · PostgreSQL · REST APIs · JWT &amp; RBAC
 
 ---
 
